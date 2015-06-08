@@ -6,6 +6,11 @@ Anyway, I notice the only two words geeks know are foo and bar, and the only sen
 I don't know why but I'd just follow.
 That's why the first name of my repo or project is hello-world.
 Enjoy! (Okey, that might not mean you'd enjoy this project which sucks, but I'd have fun with it.
-This is the first version but it only contains README.
 
 *First version: 14:56 on 8 June 2015
+** Just README
+
+*Second version: 03:34 on 9 June 2015
+** Decided to write the greeting sentences in all the languages I know.
+** So far: C (before and after compiled), php and Python.
+** More coming soon.

@@ -14,3 +14,7 @@ Enjoy! (Okey, that might not mean you'd enjoy this project which sucks, but I'd 
 ** Decided to write the greeting sentences in all the languages I know.
 ** So far: C (before and after compiled), php and Python.
 ** More coming soon.
+
+*Third version: 17:33 on 15 October 2015
+** Just completed a java course so added a java version.
+** So far: C, php, python and java.
